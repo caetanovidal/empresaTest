@@ -1,0 +1,27 @@
+﻿<Window x:Class="empresaTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:empresaTest"
+        xmlns:vm="clr-namespace:empresaTest.viewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <vm:mainViewModel x:Key="vm"/>
+        </ResourceDictionary>
+    </Window.Resources>
+    
+    <DockPanel DataContext="{StaticResource vm}">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Criar Empresa/Fornecedor">
+                <MenuItem Header="Nova Empresa"
+                          Command="{Binding CadastrarEmpresaCommand}"/>
+                <MenuItem Header="Novo Forncedor"
+                          Command="{Binding CadastrarFornecedorCommand}"/>
+            </MenuItem>
+        </Menu>
+    </DockPanel>
+</Window>

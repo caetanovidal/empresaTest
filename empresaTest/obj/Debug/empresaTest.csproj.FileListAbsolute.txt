@@ -1,0 +1,16 @@
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest.csprojAssemblyReference.cache
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\MainWindow.g.cs
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\App.g.cs
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest_MarkupCompile.cache
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest_MarkupCompile.lref
+C:\Users\Windows\test\empresaTest\empresaTest\bin\Debug\empresaTest.exe.config
+C:\Users\Windows\test\empresaTest\empresaTest\bin\Debug\empresaTest.exe
+C:\Users\Windows\test\empresaTest\empresaTest\bin\Debug\empresaTest.pdb
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\MainWindow.baml
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest.g.resources
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest.Properties.Resources.resources
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest.csproj.GenerateResource.cache
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest.csproj.CoreCompileInputs.cache
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest.exe
+C:\Users\Windows\test\empresaTest\empresaTest\obj\Debug\empresaTest.pdb
